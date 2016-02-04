@@ -1,0 +1,3 @@
+[submodule "graphicsTest"]
+	path = graphicsTest
+	url = https://github.com/jonalf/graphicsTest.git
