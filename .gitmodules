@@ -25,3 +25,6 @@
 [submodule "8/Felipe"]
 	path = 8/Felipe
 	url = https://github.com/felipe-mans/0-imagine-pixels.git
+[submodule "8/sammi_wu leung"]
+	path = 8/sammi_wu leung
+	url = https://github.com/mks66/picmaker.git
