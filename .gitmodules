@@ -7,3 +7,6 @@
 [submodule "5/ethan_cheng"]
 	path = 5/ethan_cheng
 	url = https://github.com/elc1798/stuy-gfx-utils
+[submodule "5/shi_shu"]
+	path = 5/shi_shu
+	url = git@github.com:shishu1998/GraphicsHomework.git
