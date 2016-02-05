@@ -4,3 +4,6 @@
 [submodule "5/Roy_Xu"]
 	path = 5/Roy_Xu
 	url = https://github.com/captiosus/Graphics.git
+[submodule "5/ethan_cheng"]
+	path = 5/ethan_cheng
+	url = https://github.com/elc1798/stuy-gfx-utils
