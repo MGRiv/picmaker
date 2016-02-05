@@ -22,3 +22,6 @@
 [submodule "8/christopher_liang"]
 	path = 8/christopher_liang
 	url = https://github.com/christopherliang/graphics_intro.git
+[submodule "8/Felipe"]
+	path = 8/Felipe
+	url = https://github.com/felipe-mans/0-imagine-pixels.git
