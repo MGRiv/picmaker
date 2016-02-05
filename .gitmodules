@@ -10,3 +10,6 @@
 [submodule "5/shi_shu"]
 	path = 5/shi_shu
 	url = git@github.com:shishu1998/GraphicsHomework.git
+[submodule "8/chris_grant"]
+	path = 8/chris_grant
+	url = https://github.com/chrisgco/graphics-work0.git
