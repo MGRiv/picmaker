@@ -16,3 +16,6 @@
 [submodule "4/graphics_intro"]
 	path = 4/graphics_intro
 	url = https://github.com/christopherliang/graphics_intro.git
+[submodule "8/graphics_intro"]
+	path = 8/graphics_intro
+	url = https://github.com/christopherliang/graphics_intro.git
