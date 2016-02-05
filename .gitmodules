@@ -13,3 +13,6 @@
 [submodule "8/chris_grant"]
 	path = 8/chris_grant
 	url = https://github.com/chrisgco/graphics-work0.git
+[submodule "4/graphics_intro"]
+	path = 4/graphics_intro
+	url = https://github.com/christopherliang/graphics_intro.git
