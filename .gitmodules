@@ -31,3 +31,6 @@
 [submodule "8/henry_filosa"]
 	path = 8/henry_filosa
 	url = https://github.com/hfilosa/my_picmaker.git
+[submodule "5/rong_yu"]
+	path = 5/rong_yu
+	url = https://github.com/RongYu98/PictureMaker
