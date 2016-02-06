@@ -43,3 +43,6 @@
 [submodule "5/ivan_lin"]
 	path = 5/ivan_lin
 	url = https://github.com/ivlin/graphics.git
+[submodule "4/mariya_gedrich"]
+	path = 4/mariya_gedrich
+	url = https://github.com/psydeolite/makerpic.git
