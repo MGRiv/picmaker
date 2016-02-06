@@ -46,3 +46,6 @@
 [submodule "4/mariya_gedrich"]
 	path = 4/mariya_gedrich
 	url = https://github.com/psydeolite/makerpic.git
+[submodule "8/jennifer_lee"]
+	path = 8/jennifer_lee
+	url = https://github.com/jenniferleeny/jenuine_lee.git
