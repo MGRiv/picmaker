@@ -37,3 +37,9 @@
 [submodule "8/michaela_papallo"]
 	path = 8/michaela_papallo
 	url = https://github.com/mpapallo/Graphics_Work0.git
+[submodule "5/graphics"]
+	path = 5/graphics
+	url = https://github.com/ivlin/graphics.git
+[submodule "5/ivan_lin"]
+	path = 5/ivan_lin
+	url = https://github.com/ivlin/graphics.git
