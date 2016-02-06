@@ -34,3 +34,6 @@
 [submodule "5/rong_yu"]
 	path = 5/rong_yu
 	url = https://github.com/RongYu98/PictureMaker
+[submodule "8/michaela_papallo"]
+	path = 8/michaela_papallo
+	url = https://github.com/mpapallo/Graphics_Work0.git
