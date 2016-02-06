@@ -49,3 +49,6 @@
 [submodule "8/jennifer_lee"]
 	path = 8/jennifer_lee
 	url = https://github.com/jenniferleeny/jenuine_lee.git
+[submodule "8/biling_wu"]
+	path = 8/biling_wu
+	url = https://github.com/bilingwu/picmaker.git
