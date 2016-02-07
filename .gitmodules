@@ -67,3 +67,6 @@
 [submodule "4/lian_wong"]
 	path = 4/lian_wong
 	url = https://github.com/roguester18/image_one.git
+[submodule "5/lian_wong"]
+	path = 5/lian_wong
+	url = https://github.com/roguester18/image_one.git
