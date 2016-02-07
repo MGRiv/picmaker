@@ -52,3 +52,6 @@
 [submodule "8/biling_wu"]
 	path = 8/biling_wu
 	url = https://github.com/bilingwu/picmaker.git
+[submodule "8/kevin_mejia"]
+	path = 8/kevin_mejia
+	url = https://github.com/kmejia/0-graphics.git
