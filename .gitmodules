@@ -58,3 +58,6 @@
 [submodule "4/jerry_lei"]
 	path = 4/jerry_lei
 	url = https://github.com/jerrylei98/graphics_homework.git
+[submodule "4/derrick_lui"]
+	path = 4/derrick_lui
+	url = https://github.com/dlui220/mypicmaker.git
