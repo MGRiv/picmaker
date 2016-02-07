@@ -73,3 +73,9 @@
 [submodule "4/loren_maggiore"]
 	path = 4/loren_maggiore
 	url = https://github.com/lorenrose1013/graphicsHW1.git
+[submodule "5/imagemaker"]
+	path = 5/imagemaker
+	url = git@github.com:JayStuy/imagemaker
+[submodule "5/jay_fromentrudder"]
+	path = 5/jay_fromentrudder
+	url = git@github.com:JayStuy/imagemaker
