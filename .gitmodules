@@ -85,3 +85,6 @@
 [submodule "8/my_picmaker"]
 	path = 8/my_picmaker
 	url = https://github.com/Nydroam/my_picmaker.git
+[submodule "8/raymond_wu"]
+	path = 8/raymond_wu
+	url = https://github.com/Nydroam/my_picmaker.git
