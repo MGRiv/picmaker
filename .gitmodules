@@ -79,3 +79,6 @@
 [submodule "5/jay_fromentrudder"]
 	path = 5/jay_fromentrudder
 	url = git@github.com:JayStuy/imagemaker
+[submodule "5/max_fishelson"]
+	path = 5/max_fishelson
+	url = https://github.com/Fishelstix/graphicsHW0.git
