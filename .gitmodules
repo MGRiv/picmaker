@@ -55,3 +55,6 @@
 [submodule "8/kevin_mejia"]
 	path = 8/kevin_mejia
 	url = https://github.com/kmejia/0-graphics.git
+[submodule "4/jerry_lei"]
+	path = 4/jerry_lei
+	url = https://github.com/jerrylei98/graphics_homework.git
