@@ -61,3 +61,6 @@
 [submodule "4/derrick_lui"]
 	path = 4/derrick_lui
 	url = https://github.com/dlui220/mypicmaker.git
+[submodule "4/nellie_spektor"]
+	path = 4/nellie_spektor
+	url = https://github.com/nspektor/GraphicsHW1.git
