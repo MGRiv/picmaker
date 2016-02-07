@@ -82,3 +82,6 @@
 [submodule "5/max_fishelson"]
 	path = 5/max_fishelson
 	url = https://github.com/Fishelstix/graphicsHW0.git
+[submodule "8/my_picmaker"]
+	path = 8/my_picmaker
+	url = https://github.com/Nydroam/my_picmaker.git
