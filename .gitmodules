@@ -103,3 +103,6 @@
 [submodule "5/haoran_xiao"]
 	path = 5/haoran_xiao
 	url = https://github.com/hrxiao/graphics00.git
+[submodule "5/yicheng_wang"]
+	path = 5/yicheng_wang
+	url = https://github.com/alex-wyc/picmaker.git
