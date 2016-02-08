@@ -94,3 +94,6 @@
 [submodule "4/andy_tso"]
 	path = 4/andy_tso
 	url = https://github.com/PingPongPaladin/andy_tso
+[submodule "5/jeremy_elkayam"]
+	path = 5/jeremy_elkayam
+	url = https://github.com/jeremyelkayam/00picmaker.git
