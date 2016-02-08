@@ -106,3 +106,6 @@
 [submodule "5/yicheng_wang"]
 	path = 5/yicheng_wang
 	url = https://github.com/alex-wyc/picmaker.git
+[submodule "8/sally_bao"]
+	path = 8/sally_bao
+	url = https://github.com/sallybao29/pic.git
