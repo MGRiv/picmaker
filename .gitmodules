@@ -109,3 +109,6 @@
 [submodule "8/sally_bao"]
 	path = 8/sally_bao
 	url = https://github.com/sallybao29/pic.git
+[submodule "4/rijiu_zheng"]
+	path = 4/rijiu_zheng
+	url = https://github.com/RJZheng1/Computer-Graphics
