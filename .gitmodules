@@ -91,3 +91,6 @@
 [submodule "8/Andy_Tso"]
 	path = 8/Andy_Tso
 	url = https://github.com/PingPongPaladin/andy_tso
+[submodule "4/andy_tso"]
+	path = 4/andy_tso
+	url = https://github.com/PingPongPaladin/andy_tso
