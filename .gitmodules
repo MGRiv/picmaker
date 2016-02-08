@@ -88,3 +88,6 @@
 [submodule "8/raymond_wu"]
 	path = 8/raymond_wu
 	url = https://github.com/Nydroam/my_picmaker.git
+[submodule "8/Andy_Tso"]
+	path = 8/Andy_Tso
+	url = https://github.com/PingPongPaladin/andy_tso
